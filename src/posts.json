@@ -1,0 +1,32 @@
+[
+  {
+            "title": "Introdução ao React",
+            "image": "https://railsware.com/blog/wp-content/uploads/2019/07/Why-we-use-ReactJS-for-our-projects-Illustration.jpg",
+            "shortDescription": "Explorando a biblioteca React",
+            "description": "React é uma biblioteca JavaScript focada na criação de interfaces de usuário de forma eficiente e intuitiva. Desenvolvida e mantida pelo Facebook, essa biblioteca se destaca pela adoção do virtual DOM, que permite uma atualização eficaz e rápida dos componentes da UI. Ao utilizar o React, desenvolvedores podem criar grandes aplicações web que podem alterar dados sem recarregar a página. Suas principais características incluem componentes reutilizáveis, uma vasta comunidade de desenvolvedores e um rico ecossistema de plugins."
+        },
+        {
+            "title": "Conhecendo Vue.js",
+            "image": "https://kinsta.com/pt/wp-content/uploads/sites/3/2021/08/what-to-know-about-vue-js.jpeg",
+            "shortDescription": "Introdução ao framework Vue.js",
+            "description": "Vue.js é um framework progressivo para construção de interfaces de usuário que se diferencia pela sua simplicidade e adaptabilidade. Ele permite que desenvolvedores integrem outras bibliotecas ou projetos existentes com facilidade, o que o torna uma ótima escolha para projetos que necessitam de uma estrutura mais leve. Vue é projetado para ser aprendido facilmente, com uma curva de aprendizado suave e uma documentação clara, tornando-se uma escolha popular entre novos desenvolvedores e também profissionais experientes que buscam eficiência sem perder flexibilidade."
+        },
+        {
+            "title": "Svelte: O Novo Framework na Cidade",
+            "image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0r8j2h8oj6lm4cry4xv4.png",
+            "shortDescription": "Descubra o poder do Svelte",
+            "description": "Svelte é um revolucionário framework que se destaca por não precisar de uma virtual DOM para atualizar a tela, diferentemente de outros frameworks como React e Vue.js. Isso ocorre porque o Svelte compila os componentes em código vanila JS no momento da construção, o que resulta em operações de atualização mais rápidas e menor overhead de memória. Este framework é ideal para desenvolvedores que desejam maximizar o desempenho sem sacrificar a capacidade de manutenção do código. Além disso, Svelte simplifica o processo de desenvolvimento ao eliminar conceitos complexos de reatividade."
+        },
+        {
+            "title": "Angular: Uma Visão Abrangente",
+            "image": "https://uploads.toptal.io/blog/image/125413/toptal-blog-image-1518523133236-d2bc894552c77f954f1e5ce48da6604d.png",
+            "shortDescription": "Exploração profunda do Angular",
+            "description": "Angular é um robusto framework mantido pelo Google, usado para construir aplicações dinâmicas de página única (SPA). Ele é construído em TypeScript e oferece ferramentas completas para desenvolver aplicações front-end escaláveis. Angular inclui uma vasta gama de funcionalidades como two-way data binding, extensa biblioteca de componentes, injeção de dependências, e um sistema de routing completo. Esses recursos tornam Angular particularmente bem equipado para grandes projetos empresariais que requerem alta produtividade e manutenção facilitada."
+        },
+        {
+            "title": "Node.js e o JavaScript no Servidor",
+            "image": "https://s3-eu-west-1.amazonaws.com/blog.forestadmin.com/2021/09/FA-article-nodeJS@2x-1-.png",
+            "shortDescription": "JavaScript no lado do servidor",
+            "description": "Node.js é um ambiente de execução JavaScript no lado do servidor que permite aos desenvolvedores utilizar JavaScript para scripting do lado do servidor, executando scripts do lado do servidor para produzir conteúdo dinâmico da página web antes que a página seja enviada ao navegador do usuário. Isso permite a criação de páginas web dinâmicas e aplicações web interativas. Uma das principais vantagens do Node.js é sua capacidade de lidar com múltiplas conexões simultâneas com alta eficiência, o que é ideal para desenvolver aplicações web escaláveis e de alto desempenho."
+        }
+]
