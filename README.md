@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-[Blogger APP](https://blogger-liart-chi.vercel.app/)
+URL Vercel project [Blogger APP](https://blogger-liart-chi.vercel.app/)
 
 <a href="https://ibb.co/196g7h3"><img src="https://i.ibb.co/4jdqK9c/Blog.png" alt="Project overview" border="0"></a>
 
